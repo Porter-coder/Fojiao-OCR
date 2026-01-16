@@ -1,5 +1,8 @@
 # 佛脚刷题OCR处理器
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
 专门为微信小程序"佛脚刷题"设计的智能OCR识别工具，支持自动截图、题目提取和格式转换。
 
 ## 🎯 项目用途
